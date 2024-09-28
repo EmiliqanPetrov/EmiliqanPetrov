@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EmiliqanPetrov
+- 👀 I’m interested in python, HTML and CSS.
+- 🌱 I’m currently learning python.
+- 📫 How to reach me: Just dont give up.
+- 😄 Pronouns: he/him
