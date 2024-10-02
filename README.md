@@ -1,6 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=26&pause=1000&color=F7A17E&background=FFEEEE00&center=true&width=435&lines=I+am+currently+learning+python!)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @EmiliqanPetrov
 - 👀 I’m interested in python, HTML and CSS.
-- 🌱 I’m currently learning python.
 - 📫 How to reach me: Just dont give up.
 - 😄 Pronouns: he/him
 
